@@ -9,4 +9,6 @@ MT_NU_GWAS: GWAS_GEMMA.worksteps, the workflow to perform GWAS base on nuclear a
 
 NUMT_NUPT: Identify_NUMT.worksteps, the workflow to identify NUMT; Identify_NUPT.worksteps, the workflow to identify NUPT; NUPT_classification_stacking_diagram.R, the drawing script of NUPT sequence classification; rm_overlap.py--python script for remove the overlap area.
 
+gene_content.R--the script that draw the gene content of 34 mitogenomes.
 
+gene_content.xlsx--the result file of 34 mitochondrial genome of gene content.
